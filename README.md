@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **Machine Learning**
+- 💬 Ask me about **Machine learning**
 
 - 📫 How to reach me **mishrarajarshi040@gmail.com**
 
